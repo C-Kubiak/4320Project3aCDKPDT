@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Hidden system files
+.DS_Store
+
+# Editor and IDE folders
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+
+# Logs
+*.log
+
+# Virtual environments (if any)
+venv/
+env/
